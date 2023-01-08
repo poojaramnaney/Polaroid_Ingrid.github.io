@@ -1,4 +1,5 @@
-# Ingrid
+# INGRID
+## Online 3D viewing rental platform!
 
 ## Introduction
 3D rental system using augmented reality (AR) could revolutionize the way we rent and use physical objects. Ingrid is a unique idea as traditionally, renting an object usually involves physically going to a store or showroom, selecting the item, and then either taking it home or having it delivered. With a 3D rental system using AR, the process could be streamlined and made much more convenient for both the renter and the owner.
@@ -22,14 +23,19 @@ There are several benefits to this rental system. For one, it would be much more
 Overall, a 3D rental system using AR has the potential to revolutionize the way we access properties, making the process more convenient and environmentally friendly.
 
 ## Technology Used:
-* AR
-* Unity
-* Firebase
-* HTML
-* CSS
-* JS
+* AR: The AR feature allows the user to walk in through the 3D models.
+* Unity:  The 3D models were build on Unity using ARCore and various other packages.
+* Firebase: The backend was built using Firebase Authentication.
+* HTML: Basic Stucture of the website was built using HTML.
+* CSS: Styling of the website.
+* JS: Responsiveness of the website.
 
 ## Deployment
+Click [here](https://polaroid-ingrid.vercel.app/) to go to our website.
+The website was deployed on versel.
+
+## Video Demo
+https://youtu.be/O8vYwUwPDRQ
 
 ## PDFs
 Presentation Link: Click [here](https://www.canva.com/design/DAFWcepYfp4/djuvhLjHUa4EJkOVAUSYaQ/edit) to go to our presentation.
